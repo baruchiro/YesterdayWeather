@@ -1,4 +1,5 @@
 module.exports = {
+  tsconfigRootDir: __dirname,
   root: true,
   env: {
     es6: true,
